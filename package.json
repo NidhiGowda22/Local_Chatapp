@@ -1,0 +1,21 @@
+{
+    "name": "local-chat-app",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "express": "^4.19.2",
+        "socket.io": "^4.7.5",
+        "sqlite3": "^5.1.7"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "electron": "^31.0.2"
+    }
+}
